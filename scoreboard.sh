@@ -16,6 +16,6 @@ printf "
 		</p>
 	<body>
 </html>
-"
+" > /var/www/html/index.html
 
 systemctl reload apache2
