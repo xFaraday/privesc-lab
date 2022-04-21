@@ -14,7 +14,7 @@ printf "
 		<p>
 		$results
 		</p>
-	<body>
+	</body>
 </html>
 " > /var/www/html/index.html
 
